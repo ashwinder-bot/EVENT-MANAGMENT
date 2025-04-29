@@ -5,8 +5,8 @@
 // Current user - would normally come from auth system
 const currentUser = {
     id: 'user1',
-    name: 'John Doe',
-    email: 'john.doe@bennett.edu.in',
+    name: 'user',
+    email: 'user@bennett.edu.in',
     role: 'student',
     enrollmentNumber: 'E21CSEU0001',
     profileImage: 'https://randomuser.me/api/portraits/men/44.jpg',
